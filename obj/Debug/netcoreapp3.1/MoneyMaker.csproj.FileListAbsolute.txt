@@ -1,0 +1,11 @@
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.exe
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.deps.json
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.json
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.dev.json
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.dll
+C:\Users\ASUS\desktop\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.pdb
+C:\Users\ASUS\desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csprojAssemblyReference.cache
+C:\Users\ASUS\desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\ASUS\desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfo.cs
+C:\Users\ASUS\desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.dll
+C:\Users\ASUS\desktop\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.pdb
